@@ -1,6 +1,6 @@
 import { Star, MapPin, Shield } from 'lucide-react';
 import { Property } from './PropertyGrid';
-import { ImageWithFallback } from './figma/ImageWithFallback';
+import { ImageWithFallback } from './files/ImageWithFallback';
 
 interface PropertyCardProps {
   property: Property;
