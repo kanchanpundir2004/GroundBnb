@@ -88,6 +88,8 @@ vite.config.ts → server / build config
 You can deploy the dist/ folder to:
 
 Netlify
+![Uploading image.png…]()
+
 
 Vercel
 
