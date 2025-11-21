@@ -1,4 +1,3 @@
-.
 
 🏡 Property Listing Page UI
 
@@ -38,19 +37,6 @@ Proper spacing & alignment
 
 High-quality UI
 
-📂 Project Structure
-Property Listing Page UI
-│
-├── index.html
-├── vite.config.ts
-├── package.json
-├── README.md
-└── src
-    ├── assets/
-    ├── components/
-    ├── styles/
-    ├── main.ts
-    └── App.tsx / App.ts
 
 🛠️ Installation & Setup
 1️⃣ Install dependencies
@@ -84,14 +70,6 @@ Vite	Bundler + Dev server
 TypeScript	Type-safe development
 HTML / CSS	UI layout and styling
 JavaScript/TS	Logic & interactivity
-🖼️ Screenshots
-
-(Add your screenshots here)
-
-/screenshots
-  ├── home.png
-  ├── list.png
-  └── detail.png
 
 📝 Customization
 
